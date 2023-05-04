@@ -1,4 +1,4 @@
-[![TheBoseMan's stats](https://github-readme-stats.vercel.app/api?username=subhadeep-bose)](https://github.com/anuraghazra/github-readme-stats)
+[![TheBoseMan's stats](https://github-readme-stats.vercel.app/api?username=subhadeep-bose&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 subhadeep-bose/subhadeep-bose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
