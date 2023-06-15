@@ -23,17 +23,7 @@
 
 ---
 
-
-
-[![TheBoseMan's stats](https://github-readme-stats.vercel.app/api?username=subhadeep-bose&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
-
----
-
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Backend Engineer and Devops enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working in Sweden. 
 - :telescope: I’m working as a Senior Software Engineer and contributing to backend for building web applications.
 
@@ -74,6 +64,10 @@ I am a Backend Engineer and Devops enthusiast <img src="https://media.giphy.com/
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhadeep-bose&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadeep-bose&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![TheBoseMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhadeep-bose&theme=tokyonight&show_icons=true)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 ---
 <!---
