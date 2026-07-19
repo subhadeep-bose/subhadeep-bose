@@ -1,0 +1,7 @@
+remotion/node_modules/
+remotion/public/*
+!remotion/public/.gitkeep
+remotion/props.json
+remotion/out.mp4
+.editor/
+__pycache__/
